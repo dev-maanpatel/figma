@@ -95,6 +95,14 @@
     .testimonials p{
         font-size: 14px;
     }
+    .footer-nav li{
+        padding-bottom: 15px;
+    }
+}
+@media (max-width: 768px) {
+    .subscribe-btn{
+        margin-top: 20px;
+    }
 }
 @media (max-width: 576px) {
     .head{

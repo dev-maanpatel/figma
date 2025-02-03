@@ -315,3 +315,28 @@
     border-top: none;
     border-right: none;
 }
+.contact-form h2{
+    background-color: var(--web-color-primaery);
+    width: fit-content;
+    border-radius: 10px;
+}
+.form-bg{
+    background-color: #292a32;
+    border-radius: 10px;
+}
+.email-box{
+    padding-left: 10px;
+    background-color: transparent;
+    border: 1px solid var(--web-section-color);
+    border-radius: 10px;
+}
+.subscribe-btn{
+    /* padding: 20px 70px 20px 10px; */
+    background-color: var(--web-color-primaery);
+    border-radius: 10px;
+    transition: all 0.3s linear;
+}
+.subscribe-btn:hover{
+    background-color: var(--web-section-color);
+    transform: scale(1.1);
+}
