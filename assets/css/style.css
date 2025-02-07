@@ -345,4 +345,6 @@
     position: sticky;
     top: 0;
     background-color: var(--web-color-light);
+    z-index: 100;
+    border-bottom: 1px solid var(--web-section-dark-color);
 }
