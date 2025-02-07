@@ -340,3 +340,9 @@
     background-color: var(--web-section-color);
     transform: scale(1.1);
 }
+
+.head{
+    position: sticky;
+    top: 0;
+    background-color: var(--web-color-light);
+}
